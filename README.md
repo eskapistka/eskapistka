@@ -1,6 +1,7 @@
 ## Hi, I’m Wiktoria. 👋
 
-👋 I'm a second-year Computer Science with Artificial Intelligence student at University of Leeds. Currently living in Gdańsk. <br>
+👋 I'm currently on my placement year working as a Developer at Next. <br>
+👋 I just finished my second year of Computer Science with Artificial Intelligence at University of Leeds. <br>
 
 
 📫 You can also find me here: <br>

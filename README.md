@@ -1,8 +1,6 @@
 ## Hi, I’m Wiktoria. 👋
 
-👋 I'm currently on my placement year working as a Developer at Next. <br>
-👋 I just finished my second year of Computer Science with Artificial Intelligence at University of Leeds. <br>
-
+I'm in my final year of Computer Science with AI at University of Leeds working part-time as a Trainee Developer at Next. <br>
 
 📫 You can also find me here: <br>
 - **[Codewars](https://www.codewars.com/users/eskapistka)** <br>
